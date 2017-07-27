@@ -109,6 +109,8 @@
 
 **Support**
 
+Wordpress has a rich online community prescence. Many third party plugins are available, both free and paid, for solutions spanning e-commerce to reporting. There are downsides to including third party code via a plugin, the third party may fail to maintain their plugins' compatibility with newer Wordpress core versions. Bad plugin code quality can result in poorer performance and open up security holes.
+
 ### [Craft](https://craftcms.com/)
 
 *Craft is a content-first CMS that aims to make life enjoyable for developers and content managers alike.*
