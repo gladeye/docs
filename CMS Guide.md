@@ -2,7 +2,7 @@
 
 ### Traditional CMS
 
-*Provide an end-to-end solution from editing content to displaying content via a theme system.*
+> Provide an end-to-end solution from editing content to displaying content via a theme system.
 
 **Pros:**
 - Quick to build site using various available themes.
@@ -17,7 +17,7 @@
 
 ### Headless CMS
 
-*Focus only on content editing, providing rich APIs for custom front-end implementation.*
+> Focus only on content editing, providing rich APIs for custom front-end implementation.
 
 **Pros:**
 - Freedom to pick the right technology for *front-end* part of the site.
@@ -34,7 +34,7 @@
 
 ### Content as a Service (CaaS)
 
-*On demand content delivering service, e.g [prismic.io](http://prismic.io),  [contentful](https://www.contentful.com/)*
+> On demand content delivering service, e.g [prismic.io](http://prismic.io),  [contentful](https://www.contentful.com/)
 
 **Pros:**
 - Zero hassle on maintenance.
@@ -60,7 +60,7 @@
 ## Options
 
 |  | prismic.io | Contenful | Wordpress |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |
 | **Stability & security** | Great | Great | Good |
 | **Content flexibility** | Excellent | Good | Excellent |
 | **Features** | Great | Good | Good |
