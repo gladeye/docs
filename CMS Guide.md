@@ -1,3 +1,8 @@
+<p align="right">
+    <img src="gladeye.png"></img>
+</p>
+
+
 ## Concepts
 
 ### Traditional CMS
