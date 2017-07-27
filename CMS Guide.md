@@ -1,5 +1,5 @@
 <p align="right">
-    <img src="gladeye.png"></img>
+    <img src="gladeye.png" height="64px"></img>
 </p>
 
 
