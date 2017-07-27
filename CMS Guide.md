@@ -61,11 +61,11 @@
 
 |  | prismic.io | Contenful | Wordpress | Craft |
 | --- | --- | --- | --- | --- |
-| **Functionality** |  |  |  |  |
-| **Usability** |  |  |  |  |
-| **Extensibility** |  |  |  |  |
-| **Deployability** |  |  |  |  |
-| **Support** |  |  |  |  |
+| **Functionality** |  |  | good |  |
+| **Usability** |  |  | good |  |
+| **Extensibility** |  |  | great |  |
+| **Deployability** |  |  | ok |  |
+| **Support** |  |  | ok |  |
 
 ### [prismic.io](https://prismic.io/)
 
@@ -101,9 +101,15 @@
 
 **Functionality**
 
+Wordpress provides functionality out of the box to handle blog posting, with categories and tags. It can also be used for a static site. 
+
 **Usability**
 
+Wordpress utilises a Dashboard-type administration setup. The sidebar houses links to content management sections, User management and other general website settings. Asset management is made simple via the built in Media Library. Administrators can create new users and assign them roles to restrict their access.
+
 **Extensibility**
+
+Wordpress is extended by both custom code and third party plugins. Popular solutions exist for e-commerce, analytics, forum/bulletin boards, SEO and more. Custom post types can be created to handle more than the average blog post
 
 **Deployability**
 
