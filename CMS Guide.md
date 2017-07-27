@@ -1,5 +1,3 @@
-# CMS Guide
-
 ## CMS concepts
 
 #### Traditional CMS
@@ -61,12 +59,12 @@ Hosting yourself CMS system, e.g [Wordpress](https://wordpress.org/), [Craft](ht
 
 ## CMS options
 
-|       | prismic.io | Contenful | Wordpress | Craft |
-| ----- | ---------- | --------- | --------- |
-| **Functionality** | - | - | - | - |
-| **Usability** | - | - | - | - |
-| **Extensibility** | - | - | - | - |
-| **Support** | - | - | - | - |
+|  | prismic.io | Contenful | Wordpress | Craft |
+| --- | --- | --- | --- | --- |
+| **Functionality** |  |  |  |  |
+| **Usability** |  |  |  |  |
+| **Extensibility** |  |  |  |  |
+| **Support** |  |  |  |  |
 
 #### [prismic.io](https://prismic.io/)
 
