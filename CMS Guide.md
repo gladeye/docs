@@ -2,7 +2,7 @@
 
 #### Traditional CMS
 
-Provide an end-to-end solution from editing content to displaying content via a theme system.
+*Provide an end-to-end solution from editing content to displaying content via a theme system.*
 
 **Pros**
 - Quick to build site using various available themes.
@@ -17,7 +17,7 @@ Provide an end-to-end solution from editing content to displaying content via a 
 
 #### Headless CMS
 
-Focus only on content editing, with content APIs for custom front-end implementation.
+*Focus only on content editing, with content APIs for custom front-end implementation.*
 
 **Pros**
 - Freedom to pick the **right** technology for *front-end* part of the site.
@@ -34,7 +34,7 @@ Focus only on content editing, with content APIs for custom front-end implementa
 
 #### Content as a Service (CaaS)
 
-On demand content delivering service, e.g [prismic.io](http://prismic.io),  [contentful](https://www.contentful.com/)
+*On demand content delivering service, e.g [prismic.io](http://prismic.io),  [contentful](https://www.contentful.com/)*
 
 **Pros**
 - Zero hassle on maintenance.
@@ -47,7 +47,7 @@ On demand content delivering service, e.g [prismic.io](http://prismic.io),  [con
 
 #### Self-hosted CMS
 
-Hosting yourself CMS system, e.g [Wordpress](https://wordpress.org/), [Craft](https://craftcms.com/)
+*Hosting yourself CMS system, e.g [Wordpress](https://wordpress.org/), [Craft](https://craftcms.com/)*
 
 **Pros**
 - Freedom to fully customise content models to fit with design.
@@ -68,7 +68,7 @@ Hosting yourself CMS system, e.g [Wordpress](https://wordpress.org/), [Craft](ht
 
 #### [prismic.io](https://prismic.io/)
 
-One CMS Backend for all your Websites & Apps
+*One CMS Backend for all your Websites & Apps*
 
 **Functionality**
 
@@ -80,7 +80,7 @@ One CMS Backend for all your Websites & Apps
 
 #### [Contentful](https://www.contentful.com/)
 
-Contentful is the essential content management infrastructure for projects of any size, with its flexible APIs and global CDN.
+*Contentful is the essential content management infrastructure for projects of any size, with its flexible APIs and global CDN.*
 
 **Functionality**
 
@@ -92,7 +92,7 @@ Contentful is the essential content management infrastructure for projects of an
 
 #### [Wordpress](https://wordpress.org/)
 
-WordPress is open source software you can use to create a beautiful website, blog, or app.
+*WordPress is open source software you can use to create a beautiful website, blog, or app.*
 
 **Functionality**
 
@@ -104,7 +104,7 @@ WordPress is open source software you can use to create a beautiful website, blo
 
 #### [Craft](https://craftcms.com/)
 
-Craft is a content-first CMS that aims to make life enjoyable for developers and content managers alike.
+*Craft is a content-first CMS that aims to make life enjoyable for developers and content managers alike.*
 
 **Functionality**
 
