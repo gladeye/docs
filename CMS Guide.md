@@ -64,6 +64,7 @@
 | **Functionality** |  |  |  |  |
 | **Usability** |  |  |  |  |
 | **Extensibility** |  |  |  |  |
+| **Deployability** |  |  |  |  |
 | **Support** |  |  |  |  |
 
 ### [prismic.io](https://prismic.io/)
@@ -75,6 +76,8 @@
 **Usability**
 
 **Extensibility**
+
+**Deployability**
 
 **Support**
 
@@ -88,6 +91,8 @@
 
 **Extensibility**
 
+**Deployability**
+
 **Support**
 
 ### [Wordpress](https://wordpress.org/)
@@ -100,6 +105,8 @@
 
 **Extensibility**
 
+**Deployability**
+
 **Support**
 
 ### [Craft](https://craftcms.com/)
@@ -111,5 +118,7 @@
 **Usability**
 
 **Extensibility**
+
+**Deployability**
 
 **Support**
