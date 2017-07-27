@@ -59,13 +59,13 @@
 
 ## CMS options
 
-|  | prismic.io | Contenful | Wordpress | Craft |
+|  | prismic.io | Contentful | Wordpress | Craft |
 | --- | --- | --- | --- | --- |
-| **Functionality** |  |  |  |  |
-| **Usability** |  |  |  |  |
-| **Extensibility** |  |  |  |  |
-| **Deployability** |  |  |  |  |
-| **Support** |  |  |  |  |
+| **Functionality** |  | good |  |  |
+| **Usability** |  | good |  |  |
+| **Extensibility** |  | bad |  |  |
+| **Deployability** |  | ?? |  |  |
+| **Support** |  | ok - great |  |  |
 
 ### [prismic.io](https://prismic.io/)
 
@@ -86,14 +86,28 @@
 *Contentful is the essential content management infrastructure for projects of any size, with its flexible APIs and global CDN.*
 
 **Functionality**
+- Flexible content modelling.
+- CDN'ed without having to set up CDNing an api.
+- Built in localisation.
+- Built in Rest API.
+- Schema source control.
+- Robust image editing tools.
+- No repeater or flexible content field type.
+- No hierarchal content types (can probably fake it using relationships, but won't display that way in the cms)
 
 **Usability**
+- How content and content models are mixed together in the same interface can be confusing.
+- Editing content is fairly simple, and editing content models is also pretty simple.
 
 **Extensibility**
+- Can only use provided integrations and there are not many.
 
 **Deployability**
+- It is possible to import / export content and structure. I can't figure out from the docs whether its possible to just export structure and import it into another space without over-riding everything in the target space.
 
 **Support**
+- Depending on plan you can get varying quality of support, from basic ticketing to a dedicated contact and phone support.
+
 
 ### [Wordpress](https://wordpress.org/)
 
