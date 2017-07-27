@@ -2,7 +2,7 @@
 
 ### Traditional CMS
 
-> Provide an end-to-end solution from editing content to displaying content via a theme system.
+> Provide an end-to-end solution from editing content to displaying content usually via a theme system.
 
 **Pros:**
 - Quick to build site using various available themes.
@@ -47,7 +47,7 @@
 
 ### Self-hosted
 
-*Hosting yourself CMS system, e.g [Wordpress](https://wordpress.org/), [Craft](https://craftcms.com/)*
+> Hosting yourself CMS system, e.g [Wordpress](https://wordpress.org/), [Craft](https://craftcms.com/)
 
 **Pros:**
 - Freedom to fully customise content models to fit with design.
