@@ -104,7 +104,7 @@ Support scales with on-going cost, ranging from basic ticketing to a dedicated c
 | --- | --- | --- | --- | --- | --- |
 | Good | Excellent | Good | Good | Great | Great |
 
-**Wordpress** is arguably one of the most popular CMSs out there, due to its vast community that bring tremendous amount of support. Its rich Plugins ecosystem helps building site much quicker and avoid re-inventing the wheel. Overusing Plugins can be a major issue, however, as they are the main source of security risks and performance degradation. Configure Wordpress to a headless CMS will greatly mitigate these issues.
+**Wordpress** is arguably one of the most popular CMSs out there, due to its maturity and tremendous amount of support from open source community. Its rich Plugins ecosystem helps building site much faster. Overusing plugins can be a major issue, however, as they are the main source of security risks and performance degradation. Configure Wordpress to a headless CMS will eliminate most of these issues.
 
-**Wordpress** theme system feels outdated and lacks of modern PHP features. Several efforts ([here](http://framework.themosis.com/), [here](https://roots.io/bedrock/) and [here](https://github.com/gladeye/blueprint)) have been made to address this issue in particular, make working with Wordpress a lot more enjoyable.
+**Wordpress** theme system feels outdated and lacks of modern PHP features. Several efforts ([here](http://framework.themosis.com/), [here](https://roots.io/bedrock/) and [here](https://github.com/gladeye/blueprint)) have been made to address this issue, make working with Wordpress a lot more enjoyable.
 
