@@ -64,7 +64,7 @@
 
 ## Options
 
-|  | prismic.io | Contenful | Wordpress |
+|  | prismic.io | Contentful | Wordpress |
 | --- | --- | --- | --- |
 | **Stability & security** | Great | Great | Good |
 | **Content flexibility** | Excellent | Good | Excellent |
@@ -95,7 +95,7 @@ Priority support comes at a higher on-going cost.
 | --- | --- | --- | --- | --- | --- |
 | Great | Good | Good | Great | Good | Good |
 
-**Contentful** is a mature platform with a well thought-out feature set, its [Images API](https://www.contentful.com/developers/docs/references/images-api/) is best in class. Number of field types is somewhat small compared to **prismic.io** and lacks of repeating fields render composing new pages out of content blocks impossible.
+**Contentful** is a mature platform with a well thought-out feature set, its [Images API](https://www.contentful.com/developers/docs/references/images-api/) is best in class. Number of field types is somewhat small compared to prismic.io and lacks of repeating fields render composing new pages out of content blocks impossible.
 
 **Contentful** provide SDKs for a great range of programming languages. Documentations are well written and its RESTful API structure helps easing down the learning curve. Like all other CaaS services, managing content structure change after production in Contentful is a challenge, but their [proposed solution](https://www.contentful.com/developers/docs/concepts/multiple-environments/) is acceptable.
 
@@ -109,7 +109,7 @@ Support scales with on-going cost, ranging from basic ticketing to a dedicated c
 | --- | --- | --- | --- | --- | --- |
 | Good | Excellent | Good | Good | Great | Great |
 
-**Wordpress** is arguably one of the most popular CMSs out there, due to its maturity and tremendous amount of support from open source community. Its rich Plugins ecosystem helps building site much faster. Overusing plugins can be a major issue, however, as they are the main source of security risks and performance degradation. Configure Wordpress to a headless CMS will eliminate most of these issues.
+**Wordpress** is arguably one of the most popular CMSs out there, due to its maturity and tremendous amount of support from open source community. Its rich plugins ecosystem helps building site much faster. Overusing plugins can be a major issue, however, as they are the main source of security risks and performance degradation. Configuring Wordpress to a headless CMS will eliminate most of these issues.
 
 **Wordpress** theme system feels outdated and lacks of modern PHP features. Several efforts ([here](http://framework.themosis.com/), [here](https://roots.io/bedrock/) and [here](https://github.com/gladeye/blueprint)) have been made to address this issue, make working with Wordpress a lot more enjoyable.
 
